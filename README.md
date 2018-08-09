@@ -2,6 +2,8 @@
 
 This is mandatory dependence (part of the setup) for using [LED Custom Palette GUI](https://github.com/jukben/keyboardio-led-custom-palette) 🎨
 
+> This plugin si deprecated! It's required only for LED Custom Palette 1.0.1. The version 1.2.0 support configuration per layer of your keyboard and is using pre-installed [Kaleidoscope-Colormap](https://github.com/keyboardio/Kaleidoscope-Colormap).
+
 ## Installing this plugin
 
 _This part of Readme was borrowed from [Kaleidoscope-MacrosOnTheFly](https://github.com/cdisselkoen/Kaleidoscope-MacrosOnTheFly) 😅_
